@@ -1,7 +1,7 @@
 import random
 min=1
 max=6
-bank=2
+bank=10
 high=10
 
 roll_again = str(input("Would you like to roll? "))
