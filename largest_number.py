@@ -1,11 +1,3 @@
-#Largest Number 2.0
-#test_1 = 5
-#test_2 = 10
-#test_3 = 37
-
-
-
-
 def test_averager(test_1,test_2,test_3):
     global max
     if (test_1 >= test_2) and (test_1 >= test_3):
