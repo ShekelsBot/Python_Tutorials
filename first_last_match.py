@@ -5,8 +5,8 @@ def first_last_match(sentence):
     elif len(sentence) == 1:
         print ("True")
     elif sentence[0] == sentence[length-1]:
-        print ("SAME")
+        print ("True")
     else:
-        print ("DIFF")
+        print ("False")
 first_last_match(sentence = input(""))
 
